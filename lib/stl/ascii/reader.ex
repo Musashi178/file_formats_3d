@@ -1,4 +1,4 @@
-defmodule FileFormats3D.Stl.Ascii do
+defmodule FileFormats3D.Stl.Ascii.Reader do
 
   def read (ascii_stl_content) do
     ascii_stl_content
