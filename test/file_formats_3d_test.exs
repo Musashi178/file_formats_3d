@@ -1,4 +1,4 @@
-defmodule FileFormats3D do
+defmodule FileFormats3DTest do
   use ExUnit.Case
   doctest FileFormats3D
 
